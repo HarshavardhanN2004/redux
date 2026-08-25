@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "productName": "Washing Machine",
+    "productType": "Home Appliance",
+    "price": 25000
+  },
+  {
+    "id": 2,
+    "productName": "Laptop",
+    "productType": "Electronics",
+    "price": 55000
+  },
+  {
+    "id": 3,
+    "productName": "Refrigerator",
+    "productType": "Home Appliance",
+    "price": 40000
+  },
+  {
+    "id": 4,
+    "productName": "Mobile Phone",
+    "productType": "Electronics",
+    "price": 30000
+  }
+]
